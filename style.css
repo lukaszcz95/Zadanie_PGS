@@ -1,0 +1,27 @@
+body {
+	
+	background-attachment: fixed;	
+	font-family: 'Lato', sans-serif;
+
+
+}
+div{
+	text-align: center;
+	margin: 0 auto;
+	font-family: 'Lato', sans-serif;
+}
+input{
+	width:330px;
+}
+
+h1{
+	color: white;	
+}
+
+h6{
+	color: white;
+}
+button {
+	color: white;
+	background-color: orange;
+}
